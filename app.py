@@ -46,7 +46,7 @@ hr {
 
 /* Sidebar */
 [data-testid="stSidebar"] {
-    background-color: #f8f9fa;
+    background-color: #7e9686;
     border-right: 1px solid #e6e6e6;
 }
 
